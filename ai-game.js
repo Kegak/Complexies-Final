@@ -1,4 +1,4 @@
-import "/engine/engine.js"
+import "/Complexies-Final/engine/engine.js"
 
 class PlayerComponent extends Component{
     name = "PlayerComponent"
